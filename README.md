@@ -19,5 +19,4 @@ In development.
 All the assets uploaded to the app are original creations of the author.
 
 # Screenshots
-
-![alt ss1](hhttps://github.com/suramyadas01/portfolio-app/blob/master/assets/screenshots/Screenshot_20210709_232107.jpg)
+<img src="https://github.com/suramyadas01/portfolio-app/blob/master/assets/screenshots/Screenshot_20210709_232107.jpg"></img>
