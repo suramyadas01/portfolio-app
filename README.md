@@ -1,16 +1,19 @@
-# portfolio_app
+# portfolio_app (Made using Flutter)
 
-A new Flutter project.
+This app was built to play around with a few Flutter functionalities. The main functionalities are s follows.
 
-## Getting Started
+# Home Screen
+On the home screen, the user is greeted with some animated text and parallax animations. The user can then navigate to other pages via the navigation drawer.
 
-This project is a starting point for a Flutter application.
+# Photographs Screen
+The main screen consists of a feed-like structure built using a GridView. The files are pulled asyncronously from Firebase Storage. On clicking on the FAB, the user is taken to a new page where he can add images from the gallery and then upload all images to Firebase. Upon hitting Upload, the screen is popped, the images are uploaded and the changes are made in the GridView immediately.
 
-A few resources to get you started if this is your first Flutter project:
+# Illustrations Screen
+Same functionality as Photographs Screen but with digital artwork. :P
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Blogs, About Me, Contact Me, Login Screens
+In development.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+All the assets uploaded to the app are original creations of the author.
